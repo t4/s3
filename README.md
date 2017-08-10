@@ -1,5 +1,11 @@
 # High Level Amazon S3 Client
 
+## Information
+
+This module is a fork of `andrewrk/node-s3-client` and is republished on npm as `@monolambda/s3` because the `andrewrk/node-s3-client` module appears to be no longer maintained and there's a demand for updating the `aws-sdk` dependency of this module, both in-house and in the community.
+
+**Contributions are more than welcome!**
+
 ## Installation
 
 `npm install @monolambda/s3 --save`

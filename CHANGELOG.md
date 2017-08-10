@@ -1,3 +1,17 @@
+### 1.0.2
+  * Update README
+  * Update `package.json`
+  * Change repository url to [s3](https://github.com/monolambda/s3) 
+
+### 1.0.1
+  * Update `aws-sdk` from 2.4.9 to 2.89.0
+  * Update `package.json`
+  * Publish module on npm as `@monolambda/s3`
+  * Update README
+
+### 1.0.0
+  * Forked from andrewrk/node-s3-client
+
 ### 4.4.0
 
  * Export aws-sdk dependency
