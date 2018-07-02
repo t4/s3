@@ -1,7 +1,7 @@
 {
   "name": "@monolambda/s3",
   "description": "high level amazon s3 client. upload and download files and directories",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Andrew Kelley",
   "license": "MIT",
   "repository": {
